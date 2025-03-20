@@ -54,3 +54,6 @@ Memory Usage: 60.2%
 ## Stopping the Monitor
 Press Ctrl+C for clean exit
 
+## Project URL
+https://roadmap.sh/projects/server-stats
+
